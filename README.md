@@ -1,0 +1,2 @@
+# ProtostuffTest
+1.比较protoStuff和fastjson以及实现Serializable接口序列化的效率问题

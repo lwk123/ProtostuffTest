@@ -15,31 +15,31 @@ public class Test {
 	public static void main(String[] args) throws IOException, ClassNotFoundException {
 		
 		Student student = new Student();  
-        student.setName("lance");  
-        student.setAge(28);  
-        student.setStudentNo("2011070122");  
-        student.setSchoolName("BJUT");
+        student.setName("luocheng");  
+        student.setAge(24);  
+        student.setStudentNo("2017080222");  
+        student.setSchoolName("yangzi");
         
         Student1 student1 = new Student1();
         
-        student1.setName("lance");  
-        student1.setAge(28);  
-        student1.setStudentNo("2011070122");  
-        student1.setSchoolName("BJUT");
+        student1.setName("luocheng");  
+        student1.setAge(24);  
+        student1.setStudentNo("2017080222");  
+        student1.setSchoolName("yangzi");
         
         Student2 student2 = new Student2();
         
-        student2.setName("lance");  
-        student2.setAge(28);  
-        student2.setStudentNo("2011070122");  
-        student2.setSchoolName("BJUT");
+        student2.setName("luocheng");  
+        student2.setAge(24);  
+        student2.setStudentNo("2017080222");  
+        student2.setSchoolName("yangzi");
         
         Student3 student3 = new Student3();
         
-        student3.setName("lance");  
-        student3.setAge(28);  
-        student3.setStudentNo("2011070122");  
-        student3.setSchoolName("BJUT");
+        student3.setName("luocheng");  
+        student3.setAge(24);  
+        student3.setStudentNo("2017080222");  
+        student3.setSchoolName("yangzi");
         
         
         //使用开源的Protostuff序列化和反序列化
